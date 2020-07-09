@@ -6,6 +6,8 @@
 - [Asymptotics of Wide Networks from Feynman Diagrams](https://arxiv.org/abs/1909.11304)
 - [Neural networks and physical systems with emergent collective computational abilities](https://www.pnas.org/content/79/8/2554)
 - [Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes](https://arxiv.org/abs/1903.08778)
+- [Adversarial Robustness Through Local Lipschitzness](https://arxiv.org/abs/2003.02460)
+- [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630)
 
 #### Mean Field Theory/ EOC/ Dynamic Isometry:
 
@@ -28,6 +30,7 @@
 - [On the distance between two neural networks and the stability of learning](https://arxiv.org/abs/2002.03432)
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
 - [Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates](https://papers.nips.cc/paper/8630-painless-stochastic-gradient-interpolation-line-search-and-convergence-rates.pdf)
+- [A Fine-Grained Spectral Perspective on Neural Networks](https://arxiv.org/abs/1907.10599)
 
 #### Non-Linear Dynamics: 
 
@@ -58,3 +61,4 @@
 - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 - [ALGEBRA](https://solisinvicti.com/books/TheOlympiad/Books/AlgebraArtin.pdf)
 - [Contemporary Abstract Algebra](https://people.clas.ufl.edu/cmcyr/files/Abstract-Algebra-Text_Gallian-e8.pdf)
+- [Statistical Mechanics of Deep Learning](https://www.annualreviews.org/doi/full/10.1146/annurev-conmatphys-031119-050745)
