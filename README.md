@@ -50,6 +50,7 @@
 - [Learning One Convolutional Layer with Overlapping Patches](https://arxiv.org/abs/1802.02547)
 - [Batch-Shaping for Learning Conditional Channel Gated Networks](https://arxiv.org/abs/1907.06627)
 - [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
+- [The Singular Values of Convolutional Layers](https://openreview.net/forum?id=rJevYoA9Fm)
 
 ### Incremental Learning/ Continual Learning/ Lifelong Learning:
 
