@@ -29,7 +29,7 @@
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
 - [Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates](https://papers.nips.cc/paper/8630-painless-stochastic-gradient-interpolation-line-search-and-convergence-rates.pdf)
 
-#### Non-Lineaar Dynamics: 
+#### Non-Linear Dynamics: 
 
 - [Regularizing activations in neural networks via distribution matching with the Wasserstein metric](https://openreview.net/pdf?id=rygwLgrYPB)
 - [Depth-Width Trade-offs for ReLU Networks via Sharkovsky's Theorem](https://arxiv.org/abs/1912.04378)
