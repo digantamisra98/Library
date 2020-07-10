@@ -20,6 +20,7 @@
 - [Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks](https://arxiv.org/abs/1806.05393)
 - [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/abs/1902.06853)
 - [Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks](https://arxiv.org/abs/1806.05394)
+- [Disentangling trainability and generalization in deep learning](https://arxiv.org/abs/1912.13053)
 
 #### Optimization/ Line Search/ Wolfe's Theorem:
 
