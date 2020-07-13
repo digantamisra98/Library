@@ -8,6 +8,12 @@
 - [Provable Certificates for Adversarial Examples: Fitting a Ball in the Union of Polytopes](https://arxiv.org/abs/1903.08778)
 - [Adversarial Robustness Through Local Lipschitzness](https://arxiv.org/abs/2003.02460)
 - [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630)
+- [Inherent Weight Normalization in Stochastic Neural Networks](https://openreview.net/forum?id=H1xDPEBx8r)
+- [Neural Arithmetic Units](https://openreview.net/forum?id=H1gNOeHKPS)
+- [Information Theory, Inference and Learning Algorithms](https://books.google.co.in/books/about/Information_Theory_Inference_and_Learnin.html?id=AKuMj4PN_EMC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+- [An Effective and Efficient Initialization Scheme for Training Multi-layer Feedforward Neural Networks](https://arxiv.org/abs/2005.08027)
+- [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134)
 
 #### Mean Field Theory/ EOC/ Dynamic Isometry:
 
@@ -21,6 +27,10 @@
 - [On the Impact of the Activation Function on Deep Neural Networks Training](https://arxiv.org/abs/1902.06853)
 - [Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks](https://arxiv.org/abs/1806.05394)
 - [Disentangling trainability and generalization in deep learning](https://arxiv.org/abs/1912.13053)
+- [A Mean Field View of the Landscape of Two-Layers Neural Networks](https://arxiv.org/abs/1804.06561)
+- [A Mean Field Theory of Batch Normalization](https://openreview.net/forum?id=SyMDXnCcF7)
+- [Statistical field theory for neural networks](https://arxiv.org/abs/1901.10416)
+- [A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth](https://arxiv.org/abs/2003.05508)
 
 #### Optimization/ Line Search/ Wolfe's Theorem:
 
@@ -32,6 +42,12 @@
 - [The large learning rate phase of deep learning: the catapult mechanism](https://arxiv.org/pdf/2003.02218.pdf)
 - [Painless Stochastic Gradient: Interpolation, Line-Search, and Convergence Rates](https://papers.nips.cc/paper/8630-painless-stochastic-gradient-interpolation-line-search-and-convergence-rates.pdf)
 - [A Fine-Grained Spectral Perspective on Neural Networks](https://arxiv.org/abs/1907.10599)
+- [The Geometry of Sign Gradient Descent](https://arxiv.org/abs/2002.08056)
+- [The Break-Even Point on Optimization Trajectories of Deep Neural Networks](https://arxiv.org/abs/2002.09572)
+- [Quasi-hyperbolic momentum and Adam for deep learning](https://openreview.net/forum?id=S1fUpoR5FQ)
+- [A new regret analysis for Adam-type algorithms](http://arxiv-export-lb.library.cornell.edu/abs/2003.09729)
+- [Disentangling Adaptive Gradient Methods from Learning Rates](https://arxiv.org/abs/2002.11803)
+- [Stochastic Flows and Geometric Optimization on the Orthogonal Group](https://arxiv.org/abs/2003.13563)
 
 #### Non-Linear Dynamics: 
 
@@ -40,6 +56,7 @@
 - [Effect of Activation Functions on the Training of Overparametrized Neural Nets](https://arxiv.org/abs/1908.05660v4)
 - [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
 - [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/pdf/1812.05720.pdf)
+- [Small nonlinearities in activation functions create bad local minima in neural networks](https://openreview.net/forum?id=rke_YiRct7)
 
 ### Computer Vision:
 
@@ -52,6 +69,7 @@
 - [Batch-Shaping for Learning Conditional Channel Gated Networks](https://arxiv.org/abs/1907.06627)
 - [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
 - [The Singular Values of Convolutional Layers](https://openreview.net/forum?id=rJevYoA9Fm)
+- [Rendering Natural Camera Bokeh Effect with Deep Learning](https://arxiv.org/abs/2006.05698)
 
 ### Incremental Learning/ Continual Learning/ Lifelong Learning:
 
@@ -64,3 +82,5 @@
 - [ALGEBRA](https://solisinvicti.com/books/TheOlympiad/Books/AlgebraArtin.pdf)
 - [Contemporary Abstract Algebra](https://people.clas.ufl.edu/cmcyr/files/Abstract-Algebra-Text_Gallian-e8.pdf)
 - [Statistical Mechanics of Deep Learning](https://www.annualreviews.org/doi/full/10.1146/annurev-conmatphys-031119-050745)
+- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
+- [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6)
