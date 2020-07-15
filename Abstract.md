@@ -6,12 +6,13 @@
 4. [Abstract Algebra, Professor Benedict Gross, Havard](https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5&)
 5. [Abstract Algebra, Bill Kinney](https://www.youtube.com/watch?v=lx3qJ-zjn5Y&list=PLmU0FIlJY-Mn3Pt-r5zQ_-Ar8mAnBZTf2)
 6. [Abstract Algebra I](https://www.youtube.com/watch?v=qOoQOJcjD2E&list=PLg8ZEeSiXsjgoQJzRcq60GjK0UrkMsA3-)
-7. [Contemporary Abstract Algebra](https://people.clas.ufl.edu/cmcyr/files/Abstract-Algebra-Text_Gallian-e8.pdf)
-8. [Algebra, Artin](https://solisinvicti.com/books/TheOlympiad/Books/AlgebraArtin.pdf)
-9. [Introduction to Algebraic Geometry and Commutative Algebra](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZfN81L7R8oZfy6ewszjy4O)
-10. [Algebraic Topology, NJ Wildberger](https://www.youtube.com/watch?v=Ap2c1dPyIVo&list=PL6763F57A61FE6FE8)
-11. [Algebraic Topology - Pierre Albin](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
-12. [Mathematics - An Introduction to Riemann Surfaces and Algebraic Curves](https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL)
+7. [Introduction to Galois Theory](https://www.coursera.org/learn/galois)
+8. [Contemporary Abstract Algebra](https://people.clas.ufl.edu/cmcyr/files/Abstract-Algebra-Text_Gallian-e8.pdf)
+9. [Algebra, Artin](https://solisinvicti.com/books/TheOlympiad/Books/AlgebraArtin.pdf)
+10. [Introduction to Algebraic Geometry and Commutative Algebra](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZfN81L7R8oZfy6ewszjy4O)
+11. [Algebraic Topology, NJ Wildberger](https://www.youtube.com/watch?v=Ap2c1dPyIVo&list=PL6763F57A61FE6FE8)
+12. [Algebraic Topology - Pierre Albin](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
+13. [Mathematics - An Introduction to Riemann Surfaces and Algebraic Curves](https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL)
 
 Bonus:
 
