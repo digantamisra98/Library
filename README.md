@@ -49,6 +49,10 @@
 - [Disentangling Adaptive Gradient Methods from Learning Rates](https://arxiv.org/abs/2002.11803)
 - [Stochastic Flows and Geometric Optimization on the Orthogonal Group](https://arxiv.org/abs/2003.13563)
 
+##### Bonus:
+
+- [Convex optimization: Gradient Methods and Online Learning](https://sites.cs.ucsb.edu/~yuxiangw/classes/CS292A-2019Spring/)
+
 #### Non-Linear Dynamics: 
 
 - [Regularizing activations in neural networks via distribution matching with the Wasserstein metric](https://openreview.net/pdf?id=rygwLgrYPB)
