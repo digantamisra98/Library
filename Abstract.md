@@ -13,8 +13,11 @@
 11. [Algebraic Topology, NJ Wildberger](https://www.youtube.com/watch?v=Ap2c1dPyIVo&list=PL6763F57A61FE6FE8)
 12. [Algebraic Topology - Pierre Albin](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 13. [Mathematics - An Introduction to Riemann Surfaces and Algebraic Curves](https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL)
+14. [Lie Groups](https://www.youtube.com/playlist?list=PLelIK3uylPMG3iyQ_SJYqeyjmeNC2QC3L)
 
 Bonus:
 
 1. [Principles of Riemannian Geometry in Neural Networks | TDLS](https://www.youtube.com/watch?v=IPrNIjA4AWE)
 2. [Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+3. [CPSC 5XX - First-Order Optimization Algorithms for Machine Learning (June, 2020)](https://www.cs.ubc.ca/~schmidtm/Courses/5XX-S20/)
+4. [VISUAL QUESTION ANSWERING AND BEYOND](https://www.cc.gatech.edu/grads/a/aagrawal307/PhD_Dissertation_Aishwarya_Agrawal.pdf)
