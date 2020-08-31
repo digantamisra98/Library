@@ -31,6 +31,7 @@
 - [A Mean Field Theory of Batch Normalization](https://openreview.net/forum?id=SyMDXnCcF7)
 - [Statistical field theory for neural networks](https://arxiv.org/abs/1901.10416)
 - [A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth](https://arxiv.org/abs/2003.05508)
+- [Towards understanding the true loss surface of deep neural networks using random matrix theory and iterative spectral methods](https://openreview.net/forum?id=H1gza2NtwH)
 
 #### Optimization/ Line Search/ Wolfe's Theorem:
 
@@ -61,6 +62,8 @@
 - [Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)
 - [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/pdf/1812.05720.pdf)
 - [Small nonlinearities in activation functions create bad local minima in neural networks](https://openreview.net/forum?id=rke_YiRct7)
+- [Tempered Sigmoid Activations for Deep Learning with Differential Privacy](https://arxiv.org/abs/2007.14191)
+- [Neural Networks Fail to Learn Periodic Functions and How to Fix It](https://arxiv.org/abs/2006.08195)
 
 ### Computer Vision:
 
@@ -74,6 +77,7 @@
 - [Convolutional Networks with Adaptive Inference Graphs](https://arxiv.org/abs/1711.11503)
 - [The Singular Values of Convolutional Layers](https://openreview.net/forum?id=rJevYoA9Fm)
 - [Rendering Natural Camera Bokeh Effect with Deep Learning](https://arxiv.org/abs/2006.05698)
+- [Towards Learning Convolutions from Scratch](https://arxiv.org/abs/2007.13657)
 
 ### Incremental Learning/ Continual Learning/ Lifelong Learning:
 
