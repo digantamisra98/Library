@@ -12,5 +12,6 @@
 - [Bayesian Geodesic Regression on Riemannian Manifolds](https://www.bmvc2020-conference.com/conference/papers/paper_0901.html)
 - [LaDDer: Latent Data Distribution Modelling with a Generative Prior](https://www.bmvc2020-conference.com/conference/papers/paper_0816.html)
 - [N2NSkip: Learning Highly Sparse Networks using Neuron-to-Neuron Skip Connections](https://www.bmvc2020-conference.com/conference/papers/paper_0097.html)
+- [Adversarial Concurrent Training: Optimizing Robustness and Accuracy Trade-off of Deep Neural Networks](https://www.bmvc2020-conference.com/conference/papers/paper_0859.html)
 
 Also, feel free to check out my paper at BMVC 2020: [Mish: A Self Regularized Non-Monotonic Activation Function](https://www.bmvc2020-conference.com/conference/papers/paper_0928.html)
