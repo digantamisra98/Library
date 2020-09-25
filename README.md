@@ -49,6 +49,7 @@
 - [A new regret analysis for Adam-type algorithms](http://arxiv-export-lb.library.cornell.edu/abs/2003.09729)
 - [Disentangling Adaptive Gradient Methods from Learning Rates](https://arxiv.org/abs/2002.11803)
 - [Stochastic Flows and Geometric Optimization on the Orthogonal Group](https://arxiv.org/abs/2003.13563)
+- [Adaptive Multi-level Hyper-gradient Descent](https://arxiv.org/abs/2008.07277)
 
 ##### Bonus:
 
@@ -78,6 +79,7 @@
 - [The Singular Values of Convolutional Layers](https://openreview.net/forum?id=rJevYoA9Fm)
 - [Rendering Natural Camera Bokeh Effect with Deep Learning](https://arxiv.org/abs/2006.05698)
 - [Towards Learning Convolutions from Scratch](https://arxiv.org/abs/2007.13657)
+- [Feature Products Yield Efficient Networks](https://arxiv.org/abs/2008.07930)
 
 ### Incremental Learning/ Continual Learning/ Lifelong Learning:
 
