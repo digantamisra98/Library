@@ -12,3 +12,5 @@
 - [Patch-wise Attack for Fooling Deep Neural Network](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/6114_ECCV_2020_paper.php)
 - [Supervised Edge Attention Network for Accurate Image Instance Segmentation](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5884_ECCV_2020_paper.php)
 - [Layer-wise Conditioning Analysis in Exploring the Learning Dynamics of DNNs](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3482_ECCV_2020_paper.php)
+- [Efficient Scale-Permuted Backbone with Learned Resource Distribution](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680562.pdf)
+- [Rethinking Bottleneck Structure for Efficient Mobile Network Design](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480681.pdf)
