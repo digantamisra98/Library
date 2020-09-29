@@ -94,3 +94,22 @@
 - [Statistical Mechanics of Deep Learning](https://www.annualreviews.org/doi/full/10.1146/annurev-conmatphys-031119-050745)
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
 - [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6)
+
+
+### Immediate:
+
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+- [Self-supervised Label Augmentation via Input Transformations](https://arxiv.org/abs/1910.05872)
+- [On the Loss Landscape of Adversarial Training: Identifying Challenges and How to Overcome Them](https://arxiv.org/abs/2006.08403)
+- [Structured Convolutions for Efficient Neural Network Design](https://deepai.org/publication/structured-convolutions-for-efficient-neural-network-design)
+- [Tensor Programs III: Neural Matrix Laws](https://arxiv.org/abs/2009.10685)
+- [An Investigation into Neural Net Optimization via Hessian Eigenvalue Density](https://arxiv.org/abs/1901.10159)
+- [The Hardware Lottery](https://arxiv.org/abs/2009.06489)
+- [Tensor Programs II: Neural Tangent Kernel for Any Architecture](https://arxiv.org/abs/2006.14548)
+- [PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks](https://arxiv.org/abs/2007.11752)
+- [Coupling-based Invertible Neural Networks Are Universal Diffeomorphism Approximators](https://arxiv.org/abs/2006.11469)
+- [Hypersolvers: Toward Fast Continuous-Depth Models](https://arxiv.org/abs/2007.09601)
+- [Residual Feature Distillation Network for Lightweight Image Super-Resolution](https://arxiv.org/abs/2009.11551)
+- [SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness](https://arxiv.org/abs/2009.10195)
+- [HyperNetworks](https://arxiv.org/abs/1609.09106)
+- [Understanding the Role of Individual Units in a Deep Neural Network](https://arxiv.org/abs/2009.05041)
