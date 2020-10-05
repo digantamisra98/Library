@@ -21,3 +21,8 @@ Semester - 2:
 5. Statistical Mechanics (Stanford Lectures) - [Course](https://www.youtube.com/playlist?list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH)
 6. Statistical Mechanics - IIT-M - [Course](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9iXvWVCopr67kKt61ntzIl)
 7. Random Matrices:Theory and Practice - [Course](https://www.youtube.com/playlist?list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA)
+8. MIT 6.034 Artificial Intelligence, Fall 2010 - [Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+9. Stanford CS229: Machine Learning | Autumn 2018 - [Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+10. Theoretical Deep Learning Course - [Course](https://www.youtube.com/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa) (in Russian)
+11. Machine Learning Theory - [Course](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO)
+12. 2019 Mathematics of Machine Learning Summer School - [Course](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
